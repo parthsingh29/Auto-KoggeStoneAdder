@@ -1,0 +1,14 @@
+/*
+
+__pycache__
+
+!*.py
+!make.bat
+
+!/src/
+!/config/
+!/static/
+!/dist/
+!/docs/
+
+!.gitignore
